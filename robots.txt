@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://mineqifuvolu.pages.dev/sitemap.xml
